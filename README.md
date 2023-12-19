@@ -1,3 +1,3 @@
 # shahzadproject-demo
 This is my first Repository.
-Author - Shahzad Leghari
+Author - Shahzad Ali Leghari
